@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PhotoBooth</string>
+    <string name="view_photo">View Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="permission_dialog_title">Permission Deny</string>
+    <string name="permission_rationale_write_storage">Storage write permission is needed to save the image.</string>
+    <string name="permission_rationale_camera">Camera permission is needed to take photo.</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="msg_no_camera">No system camera found</string>
+    <string name="error_file_create_fail">Failed to create file</string>
+    <string name="msg_input_name">Please input name</string>
+    <string name="warning_name_empty">Name cannot be empty.</string>
+    <string name="msg_save_success">Photo is  saved successfully.</string>
+</resources>
