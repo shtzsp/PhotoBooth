@@ -25,6 +25,8 @@ Use [Glide](https://github.com/bumptech/glide) library to handle images.
 
 UI doesn't look so good.
 
+Not test on various Android version phones.
+
 Only English string resource provided, lack Chinese string.
 
 Not consider all of the edge cases.
