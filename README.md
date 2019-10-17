@@ -31,4 +31,6 @@ Only English string resource provided, lack Chinese string.
 
 Not consider all of the edge cases.
 
+Need ORM framework layer for DB access when app is complicated enough.
+
 For the complicated application, consider to adopt [Fragmentation](https://github.com/YoKeyword/Fragmentation) library
